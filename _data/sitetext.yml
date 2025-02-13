@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-#    text: "What we offer"
+    text: ""
     section: services
     list:
       - title: "High Performance Backend"
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-#    text: "our story"
+    text: ""
     body: "We are passionate about functional programming, with a strong focus on Scala. Our expertise lies in building distributed, scalable systems and event-driven architectures that power modern applications. We embrace agile development, continuously delivering and deploying improvements to ensure adaptable and high-quality solutions for our clients."
     section: about
 
