@@ -10,4 +10,4 @@ gemspec
 # gem 'base64', require: 'base64'
 # gem 'logger', require: 'logger'
 
-gem "jekyll", "~> 4.3"
+gem "jekyll-agency"
